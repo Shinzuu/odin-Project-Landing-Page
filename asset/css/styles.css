@@ -1,0 +1,29 @@
+.hero, footer, header {
+    background-color: #1F2937;
+}
+.hero-main {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
+.hero-sec, li a{
+    font-size: 18px;
+    color: #E5E7EB;
+}
+ul {
+    list-style-type: none;
+}
+.header-logo-text {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+button , .call-to-action button {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    font-size: 18px;
+    font-weight: 900;
+    border-radius: 10px;
+    padding: 5px 20px;
+
+}
+/* need to update some styling */
