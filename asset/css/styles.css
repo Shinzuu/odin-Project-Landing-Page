@@ -1,29 +1,41 @@
-.hero, footer, header {
-    background-color: #1F2937;
+/* colors and font styles */
+.hero, footer {
+    background-color: #1f2937;
 }
+
 .hero-main {
     font-size: 48px;
-    font-weight: bolder;
-    color: #F9FAF8;
+    font-weight: 900;
+    color: #f9faf8;
 }
-.hero-sec, li a{
+
+.hero-sec {
     font-size: 18px;
-    color: #E5E7EB;
+    color: #e5e7eb;
 }
-ul {
-    list-style-type: none;
-}
+
 .header-logo-text {
     font-size: 24px;
-    color: #F9FAF8;
+    color: #f9faf8;
 }
-button , .call-to-action button {
-    background-color: #3882F6;
-    color: #F9FAF8;
-    font-size: 18px;
-    font-weight: 900;
-    border-radius: 10px;
-    padding: 5px 20px;
 
+.call-to-action , button{
+    background-color: #3882f6;
 }
-/* need to update some styling */
+
+.information-header-text {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1f2937;
+}
+
+.qoute {
+    background-color: #E5E7EB;
+}
+
+.quote h2 {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 300;
+    color: #1f2937;
+}
