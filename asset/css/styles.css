@@ -1,4 +1,7 @@
 /* colors and font styles */
+* {
+    font-family: roboto;
+}
 .hero, footer {
     background-color: #1f2937;
 }
