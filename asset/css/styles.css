@@ -46,8 +46,17 @@
     color: #1f2937;
 }
 
-/* alignment */
+a:link {
+    color:#E5E7EB;
+}
+a:hover {
+    color: #3882f6;
+}
 
+/*////////// alignment //////////*/
+
+
+/* navbar */
 .header , .hero, .call-to-action{
     display: flex;
     justify-content: space-between;
@@ -72,15 +81,6 @@
 .navbar li:first-child {
     margin-left: 0;
 }
-/* Unvisited link */
-a:link {
-    color:#E5E7EB;
-}
-a:hover {
-    color: #3882f6;
-}
 
-.hero-main, .hero-sec {
-    flex-wrap: wrap;
-    flex-direction: column;
-}
+
+/* Hero section */
