@@ -57,13 +57,14 @@ a:hover {
 
 
 /* navbar */
-.header , .hero, .call-to-action{
+.header {
     display: flex;
-    justify-content: space-between;
     align-items: center;
+    justify-content: center;
     background-color: #1f2937; 
-    padding: 1% 10%;
-    /* max-width: 900px; */
+    max-width: 71%;
+
+
 }
 
 .navbar ul {
