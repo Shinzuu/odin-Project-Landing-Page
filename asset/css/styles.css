@@ -141,7 +141,7 @@ a {
     padding-top: 5%;
     margin: 0 auto;
     padding-bottom: 15%;
-    gap: 8%;
+    gap: 5%;
 }
 
 .cont img {
@@ -163,4 +163,9 @@ a {
     padding-top: 8%;
     max-width: 43%;
     margin: 0px auto;
+}
+.quote p {
+    font-weight: bold;
+    margin-left: 57%; 
+    font-size: x-large;
 }
