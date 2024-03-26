@@ -154,4 +154,13 @@ a {
     margin: 0 auto;
     font-weight: 300;
 }
-
+.quote {
+    height: 430px;
+    display: flex;
+    flex-direction: column;
+}
+.quote h2 {
+    padding-top: 8%;
+    max-width: 43%;
+    margin: 0px auto;
+}
